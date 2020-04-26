@@ -38,7 +38,7 @@ hold on;
 h = gca;
 
 % params
-colors = ['r';'b'];
+colors = ['b';'r'];
 heights = [0.195, 0.195];
 lines = [];
 start_time = [100, 250];
